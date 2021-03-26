@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: DevDonatas                          # the main title
+title: DataDonatas                          # the main title
 
 tagline: Updates on the things I am working on   # it will display as the sub-title
 
@@ -26,22 +26,22 @@ description: >-                        # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 
-url: "https://devdonatas.github.io"
+url: "https://datadonatas.github.io"
 author: DevDonatas                  # change to your full name
 
 github:
-  username: DevDonatas             # change to your github username
+  username: DataDonatas             # change to your github username
 
 twitter:
-  username: DevDonatas            # change to your twitter username
+  username: DataDonatas            # change to your twitter username
 
 social:
-  name: DevDonatas                  # it will shows as the copyright owner in Footer
-  email: DevDonatas@gmail.com             # change to your email address
+  name: DataDonatas                  # it will shows as the copyright owner in Footer
+  email: DataDonatas@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/devdonatas      # change to your twitter homepage
-    - https://github.com/devdonatas       # change to your github homepage
+    - https://twitter.com/datadonatas      # change to your twitter homepage
+    - https://github.com/datadonatas       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
